@@ -10,3 +10,8 @@ git clone https://github.com/naz664/recovery_samsung_m31-twrp device/samsung/m31
 ```
 export ALLOW_MISSING_DEPENDENCIES=true && . build/envsetup.sh && lunch omni_m31-eng && mka recoveryimage -j$(nproc --all)
 ```
+## Credits
+- [Yilliee](https://github.com/Yilliee)
+- [Lmao](https://github.com/LMAO-armv8)
+- [Soulr344](https://github.com/soulr344)
+
